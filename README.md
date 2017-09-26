@@ -1,3 +1,6 @@
+*** this is a mirror of python-withjvm build pack on github ```https://github.com/gadamc/python-withjvm-buildpack```. 
+Replicated it for an additional source. ***
+
 # Cloud Foundry Python Buildpack
 [![CF Slack](https://s3.amazonaws.com/buildpacks-assets/buildpacks-slack.svg)](http://slack.cloudfoundry.org)
 
